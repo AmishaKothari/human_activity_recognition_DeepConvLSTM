@@ -7,7 +7,7 @@ Link for the paper: https://www.mdpi.com/1424-8220/16/1/115
 
 Link to the Opportunity dataset: https://archive.ics.uci.edu/ml/datasets/OPPORTUNITY+Activity+Recognition
 
-# To run this project :
+To run this project :
 
 Download all the files present in this repository.
 Open the DeepConvLSTM.ipynb in google colab.
