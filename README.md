@@ -9,6 +9,6 @@ Link to the Opportunity dataset: https://archive.ics.uci.edu/ml/datasets/OPPORTU
 
 To run this project :
 
-Download all the files present in this repository.
-Open the DeepConvLSTM.ipynb in google colab.
-Upload remaining files to the google colab and run the cells
+1. Download all the files present in this repository.
+2. Open the DeepConvLSTM.ipynb in google colab.
+3. Upload remaining files to the google colab and run the cells
